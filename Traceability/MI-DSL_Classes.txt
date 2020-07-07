@@ -1,4 +1,4 @@
-```java
+
 model SysMLModel{ 
  folder SysML{
 
@@ -136,4 +136,4 @@ model SysMLModel{
 	associationType containedBy "ContainedBy"
  } 
 }
-```
+
