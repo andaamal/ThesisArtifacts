@@ -1,3 +1,9 @@
+/**
+ * this class export the GRL model into sympy function
+ * 
+ * @author Yuxuan Fan and Amal Ahmed Anda
+ *
+ */
 package seg.jUCMNav.importexport;
 
 import java.io.FileOutputStream;
@@ -30,12 +36,7 @@ import urn.URNspec;
 import urncore.IURNDiagram;
 import urncore.IURNNode;
 
-/**
- * this class export the URN model into sympy function
- * 
- * @author Yuxuan Fan and Amal Anda
- *
- */
+
 public class ExportGRLMath implements IURNExport {
 	private String GRLname;
 	FeatureToMath FeatureExport = new FeatureToMath( );
