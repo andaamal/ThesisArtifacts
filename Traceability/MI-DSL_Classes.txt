@@ -1,3 +1,5 @@
+// SysML classes of SysML elements that we selected to be imported and tracked in DOORS database
+// Author name: Amal Ahmed Anda
 
 model SysMLModel{ 
  folder SysML{
