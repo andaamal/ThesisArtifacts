@@ -1,5 +1,5 @@
 # DXL Library
-* This SysML library is produced once only using the MI-DSL Xtext editor.
+* This SysML library is produced once only using the MI-DSL Xtext editor automatically.
 * This library produced from the MI-DSL specification to import the DSL describtions of SysML models created by the traceability template
 ## Installation
 * Place this libraryi in The " \lib\dxl\addins\DSL\lib" located in the Rational DOORS directory.
