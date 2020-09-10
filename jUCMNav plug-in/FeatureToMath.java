@@ -1,13 +1,12 @@
-/* Amal Ahmed Anda
- * 
- */
-package seg.jUCMNav.importexport;
 /**
  * this class export the Feature model into sympy function
  * 
  * @author Amal Ahmed Anda
  *
  */
+
+package seg.jUCMNav.importexport;
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
