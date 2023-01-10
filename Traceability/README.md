@@ -1,5 +1,5 @@
 # Traceability Support Files
-Contain three parts:
+Contain four parts:
 
 
 ## 1- Report Generation Template [SmartHome.txt](SmartHome.txt)
