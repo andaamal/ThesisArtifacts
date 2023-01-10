@@ -1,11 +1,11 @@
 # Smart Home Case Study Models
-Contains:  
+This Contains three types of models:  
 
-## 1- SysML Models 
+## 1- [SysML Models] (https://github.com/andaamal/ThesisArtifacts/tree/master/Traceability/Models/SysML) 
 
    ### a- SysML Block Definition Diagram
    ### b- SysML Requirements Diagram
    
 ## 2- Goal Oriented Models
-   ### a- GRL Diagram
-   ### b- Feature Diagram
+   ### a- [GRL Diagram](https://github.com/andaamal/ThesisArtifacts/tree/master/Traceability/Models/GRL)
+## 3- [Feature Diagram](https://github.com/andaamal/ThesisArtifacts/tree/master/Traceability/Models/Feature)
